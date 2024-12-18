@@ -1,6 +1,8 @@
 module Data.Time.Distance
     ( TimeUnit(..)
     , TimeDirection(..)
+    , TimeDifference(..)
+    , TimeDistance(..)
     , distanceOfTime
     , distanceOfTimeInWords
     ) where
